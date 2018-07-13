@@ -1,0 +1,13 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body
+{
+   font-family: 'Open Sans Condensed', sans-serif;
+   height: 300px;
+   background: url('../img/12793759334_ce9e0787d0_b.png') no-repeat fixed 50% 50% / cover;
+}
+section:nth-child(1) {
+   background: url('../img/12345678_p.png') no-repeat fixed 50% 50% / cover;
+}
